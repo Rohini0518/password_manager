@@ -1,0 +1,6 @@
+||amazon|rohini123@gmail.com|amz@123||
+||flipkart|rohini123@gmail.com|flip@345||
+||meesho|rohini123@gmail.com|mesh@998||
+||udemy|rohini78676@yahoo.com|ude@6565||
+||vscode|rohini123@gmail.com|vs@333||
+||twitter|rohini123@gmail.com|*a#918b2*d8c||
